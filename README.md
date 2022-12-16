@@ -1,5 +1,5 @@
 # CrowdChat-A Group Chat Application
-CrowdChat is a group chat application which is built using HTML, CSS, JS, NodeJS, MongoDB
+CrowdChat is a group chat application which is built using EJS, NodeJS, MongoDB
 
 ### Important requirements
 You need to initialize some variables inside .env file. Because, I haven't uploaded my .env file. The variables are given below:
